@@ -200,6 +200,7 @@ const dailyImages = {
   "2025-03-28": "/images/bet-image1.png",
   "2025-03-29": "/images/bet-image2.png",
   "2025-03-30": "/images/bet-image3.png",
+  "2025-04-01": "/images/bet-image4.png",
 
   // Add more dates and image paths as needed
   // Format: "YYYY-MM-DD": "/path/to/your/image.jpg",
